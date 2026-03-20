@@ -3,7 +3,9 @@
 i'm a frontend developer skilled in React.js,HTML,CSS and modern UI/UX designs. A MERN stack developer. Passionate about creating,responsive,clean and engaging web interfaces.
 Hand's on experience in Building functional applications. Fast learner, collaborative and eager to always improve
 
-## Tech Stack
+## Tech Stack   <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
 - HTML
 - CSS
 - Javascript
