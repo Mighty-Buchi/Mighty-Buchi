@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+## About Me
+i'm a frontend developer skilled in React.js,HTML,CSS and modern UI/UX designs. A MERN stack developer. Passionate about creating,responsive,clean and engaging web interfaces.
+Hand's on experience in Building functional applications. Fast learner, collaborative and eager to always improve
+
+## Tech Stack
+- HTML
+- CSS
+- Javascript
+- React JS
+- Framer motion
+- MERN
+
+  ## Contact Me
+  - ihiasobuchi@gmail.com
+
 <!--
 **Mighty-Buchi/Mighty-Buchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
