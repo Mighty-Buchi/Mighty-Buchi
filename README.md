@@ -10,6 +10,8 @@ Hand's on experience in Building functional applications. Fast learner, collabor
 - CSS
 - Javascript
 - React JS
+- git
+- github
 - Framer motion
 - MERN
 
