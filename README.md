@@ -1,19 +1,20 @@
 ## Hi there 👋
 
-i'm a frontend developer skilled in React.js,HTML,CSS and modern UI/UX designs. A MERN stack developer. Passionate about creating,responsive,clean and engaging web interfaces.
+i'm a frontend developer skilled in React.js,HTML,CSS and modern UI/UX designs. A next.js stack developer. Passionate about creating,responsive,clean and engaging web interfaces.
 Hand's on experience in Building functional applications. Fast learner, collaborative and eager to always improve
 
 ## Tech Stack   <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,git,github,js,html,css," />
 </p>
-- HTML
-- CSS
-- Javascript
-- React JS
+- nextjs
+- typescript
+- react
 - git
 - github
-- Framer motion
-- MERN
+- js
+- html
+- CSS
+
 
   ## Contact Me
   - ihiasobuchi@gmail.com
